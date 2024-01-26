@@ -1,0 +1,37 @@
+Species	Journal	Year	Number of citations	Transgenic? (Y/N)	Tissue(s)	Developmental stage	Environment	Media	Stress duration	Mechanism_drying	Physiology datasets	Number of timepoints	Number of replicates
+Arabidopsis_thaliana	BMC Genomics	2019	15	Y	leaf	12	Growth_chamber	Soil	21	Natural_drying	RWC,EL		3
+Arabidopsis_thaliana	BMC Plant Biol	2013	237	N	leaf	30	Growth_chamber	Soil		Air_drying	None		
+Arabidopsis_thaliana	Front Plant Sci	2023	0	Y	leaf	21	Growth_chamber	Soil	22	Controlled_drying	SMC,FvFm		
+Arabidopsis_thaliana	Front Plant Sci	2016	52	Y	leaf	28	Growth_chamber	Soil	14	Natural_drying	None		3
+Arabidopsis_thaliana	Front Plant Sci	2015	183	N	leaf	28	Growth_chamber	Soil		Controlled_drying	RWC		3
+Arabidopsis_thaliana	Funct Integr Genomics	2022	2	Y	leaf	15	Growth_chamber	Soil	7	Natural_drying	None	2	2
+Arabidopsis_thaliana	Int J Mol Sci	2021	10	Y	leaf	21	Growth_chamber	Soil	10	Natural_drying	stomatal_traits		3
+Arabidopsis_thaliana	Int J Mol Sci	2021	24	N	leaf	31	Growth_chamber	Soil	11	Natural_drying	RWC,stomatal_traits		3
+Arabidopsis_thaliana	ISME J	2022	3	Y	leaf		Growth_chamber	Soil	3	Natural_drying	None		3
+Arabidopsis_thaliana	J Exp Bot	2020	21	N	leaf	10	Culture_room	Agar_plates		Air_drying	None	2	3
+Arabidopsis_thaliana	J Exp Bot	2020	46	N	leaf	21	Growth_chamber	Soil	8	Controlled_drying	SMC		
+Arabidopsis_thaliana	J Exp Bot	2017	99	Y	leaf	17			10	Natural_drying	RWC,EL		2
+Arabidopsis_thaliana	Nat Commun	2018	223	N	leaf	14	Culture_room	Agar_plates		Air_drying	None		3
+Arabidopsis_thaliana	Nat Commun	2018	168	Y	leaf	30	Growth_chamber	Soil	12	Natural_drying	None		3
+Arabidopsis_thaliana	Nat Commun	2017	104	Y	seedling		Culture_room	Agar_plates		ABA	None		2
+Arabidopsis_thaliana	Nature	2022	9	Y	leaf	10	Culture_room	Agar_plates		PEG	None	2	2
+Arabidopsis_thaliana	New Phytologist	2020	40	Y	leaf	14	Growth_chamber	Soil	10	Natural_drying	stomatal_traits		3
+Arabidopsis_thaliana	Plant Cell	2019	136	Y	leaf	30	Growth_chamber	Soil	21	Natural_drying	stomatal_traits		3
+Arabidopsis_thaliana	Plant Cell	2016	73	Y	leaf	12	Growth_chamber	Soil	10	Controlled_drying	SMC		
+Arabidopsis_thaliana	Plant Cell	2017	154	Y	leaf	30	Growth_chamber	Soil	8	Natural_drying	RWC		3
+Arabidopsis_thaliana	Plant Cell	2016	61	Y	leaf	14	Growth_chamber	Agar_plates		PEG	FW		3
+Arabidopsis_thaliana	Plant Cell	2014	71	N	leaf, root	25	Growth_chamber	Soil	21	Controlled_drying	SMC		
+Arabidopsis_thaliana	Plant Cell Environ	2022	6	Y	leaf	18	Growth_chamber	Soil	7	Natural_drying	RWC,stomatal_traits		3
+Arabidopsis_thaliana	Plant Cell Environ	2017	81	Y	leaf	12	Growth_chamber	Soil	5	Controlled_drying	SMC		3
+Arabidopsis_thaliana	Plant Cell Physiol	2022	7	Y	leaf	17	Greenhouse	Soil	13	Natural_drying	None	4	3
+Arabidopsis_thaliana	Plant Cell Physiol	2022	7	Y	leaf	17	Greenhouse	Soil	13	Natural_drying	None	4	3
+Arabidopsis_thaliana	Plant Cell Physiol	2022	1	Y	Seedling	2	Growth_chamber	Soil	2	Controlled_drying			2
+Arabidopsis_thaliana	Plant Cell Rep	2018	46	Y	leaf	21	Growth_chamber	Soil	14	Natural_drying	RWC		3
+Arabidopsis_thaliana	Plant Commun	2023	0	Y	leaf	18	Growth_chamber	Soil		Controlled_drying	None		
+Arabidopsis_thaliana	The Plant Journal	2019	81	N	leaf	21	Growth_chamber	Soil	4	Controlled_drying	FW,SMC		2
+Arabidopsis_thaliana	Plant Physiology	2016	84	Y						PEG			
+Arabidopsis_thaliana	Plant Physiology	2015	198	N	leaf	21	Growth_chamber	Soil	11	Controlled_drying	SMC		3
+Arabidopsis_thaliana	Plant Physiology	2021	13	Y	leaf, root	7	Culture_room	Agar_plates		PEG	None		
+Arabidopsis_thaliana	PNAS	2020	61	Y	leaf	35	Growth_chamber	Soil	14	Natural_drying	stomatal_traits,FW		
+Arabidopsis_thaliana	The Plant Journal	2020	25	Y	leaf	30	Growth_chamber	Soil	15	Natural_drying	RWC		3
+Arabidopsis_thaliana	The Plant Journal	2016	166	N	leaf	30	Growth_chamber	Soil	15	Natural_drying	None		3
