@@ -1,0 +1,7 @@
+# Meta analysis of public drought gene expression data in plants
+
+This GitHub repository contains Jupyter notebooks and metadata from VanBuren et al. 2024 for all analyses of the drought expression data including filtering, batch effect correction, dimensionality reduction, clustering, and machine learning based predictive modeling. The raw TPMs for each species can be downloaded from Dryad: https://doi.org/10.5061/dryad.7sqv9s50g. Separate Jupyter notebooks are provided for each species and/or set of analyses. 
+
+We re-analyzed hundreds of drought gene expression experiments across diverse model and crop species and quantified the variability across studies. We assembled a database of drought RNAseq data in Arabidopsis, soybean, tomato, rice, maize, and rice from the NCBI sequence read archive (SRA). Bulk data was retrieved using a series of drought stress related keywords with the SRA Advanced Search Builder. The following metadata was collected for each experiment: tissue type(s), developmental stage, environment (e.g, greenhouse, field, growth chamber etc), media type, duration of stress, mechanism of drying, associated physiology datasets, genotype, number of timepoints, and number of replicates. 112 studies had a linked publication in the NCBI metadata and 130 had no associated publication across all 6 species. Similar metadata was retrieved for individual SRA samples along with a binary classification of treatment (drought or control) where possible.
+
+
